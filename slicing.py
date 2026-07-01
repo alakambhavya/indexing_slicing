@@ -14,5 +14,17 @@ quote="never wait for perfect moment make a moment perfect"
 print(quote[2:3:1])
 print(quote[15:22:1])
 
+print("____________")
+
+data_1="learning gives creativity"
+print(data_1[-1:-11:-1])
+print(data_1[-16:-11:1])
+
+
+
+
+
+
+
 
 
