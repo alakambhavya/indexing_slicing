@@ -20,6 +20,11 @@ data_1="learning gives creativity"
 print(data_1[-1:-11:-1])
 print(data_1[-16:-11:1])
 
+print("_____________")
+
+home="fan,fridge,chair,sofa"
+print(home[0:3:5])
+
 
 
 
