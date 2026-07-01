@@ -23,7 +23,8 @@ print(data_1[-16:-11:1])
 print("_____________")
 
 home="fan,fridge,chair,sofa"
-print(home[0:3:5])
+print(home[0:3:1])
+print(home[-4:-2:1])
 
 
 
